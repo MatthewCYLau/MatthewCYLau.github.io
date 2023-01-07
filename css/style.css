@@ -58,7 +58,7 @@ nav {
   margin: 0 auto;
 }
 
-.stop-scrolling {
+<<<<<<< HEAD .stop-scrolling {
   height: 100%;
   overflow: hidden;
 }
@@ -91,7 +91,7 @@ nav {
   justify-content: center;
 }
 
-nav .container {
+=======>>>>>>>a6943d94ee6eb1231ddbe2d7ef42a0dff4f0e24a nav .container {
   display: flex;
   justify-content: space-between;
   height: 6rem;
