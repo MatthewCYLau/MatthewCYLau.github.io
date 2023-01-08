@@ -352,7 +352,7 @@ header .circle {
 
 /* End header */
 
-/* Services */
+/* skills */
 
 .cards {
   display: flex;
@@ -426,18 +426,18 @@ header .circle {
   margin: 1.8rem 0;
 }
 
-.services .points1 {
+.skills .points1 {
   bottom: -50px;
   left: -125px;
   opacity: 0.2;
   pointer-events: none;
 }
 
-.services .points2 {
+.skills .points2 {
   bottom: -70px;
   right: -65px;
   opacity: 0.2;
   pointer-events: none;
 }
 
-/* End Services */
+/* End Skills */
