@@ -34,6 +34,9 @@ function countUp() {
       } else {
         numb.innerText = maxNum;
       }
+      if (currentNum === maxNum) {
+        numb.innerText = numb.innerText + "+";
+      }
     };
 
     setTimeout(updateCount, 400);
